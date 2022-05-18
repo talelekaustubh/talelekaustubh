@@ -12,4 +12,4 @@
 - Learning Data Structures and Algorithms.
 
 <p align="center"><a href="mailto:kaustubh1250@gmail.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="c"/></a>
-<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/kaustubh-talele-6b4585202/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="c"/></a>
+<a href="https://www.linkedin.com/in/kaustubh-talele-6b4585202/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="c"/></a>
