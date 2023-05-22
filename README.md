@@ -15,6 +15,6 @@
 <a href="https://www.linkedin.com/in/kaustubh-talele-6b4585202/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="c"/></a>
 <a href="https://www.hackerrank.com/kaustubh1250" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="c"/></a>
 <a href="https://leetcode.com/Phoenix_02/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="c"/></a>
-
+<a href="https://www.codechef.com/users/kaustubh101" target="_blank" rel="noreferrer"> <img src=https://s3.amazonaws.com/codechef_shared/misc/fb-image-icon.png?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="c"/></a>
 
   
