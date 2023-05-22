@@ -11,10 +11,14 @@
 - Learning C++
 - Learning Data Structures and Algorithms.
 
-<p align="center"><a href="mailto:kaustubh1250@gmail.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="c"/></a>
-<a href="https://www.linkedin.com/in/kaustubh-talele-6b4585202/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="c"/></a>
-<a href="https://www.hackerrank.com/kaustubh1250" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="c"/></a>
-<a href="https://leetcode.com/Phoenix_02/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="c"/></a>
-<a href="https://www.codechef.com/users/kaustubh101" target="_blank" rel="noreferrer"> <img src=https://s3.amazonaws.com/codechef_shared/misc/fb-image-icon.png?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="c"/></a>
+<p align="center">
+<a href="https://www.linkedin.com/in/kaustubh-talele-6b4585202/" target="blank"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="Kaustubh-Talele" height="40" width="40" /></a>
+<a href="https://stackoverflow.com/users/16327622/kaustubh" target="blank"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-shadow-tal-revivo.png" alt="Kaustubh-Talele" height="40" width="40" /></a>
+<a href="https://www.codechef.com/users/kaustubh101" target="blank"><img src="https://img.icons8.com/color/144/000000/codechef.png" alt="Kaustubh-Talele" height="40" width="40" /></a>
+<a href="https://www.hackerrank.com/kaustubh1250" target="blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png" alt="Kaustubh-Talele" height="40" width="40" /></a>
+<a href="https://www.leetcode.com/Phoenix_02" target="blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="Kaustubh-Talele" height="40" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/kaustubh1250" target="blank"><img src="https://img.icons8.com/color/144/000000/GeeksforGeeks.png" alt="Kaustubh-Talele" height="40" width="40" /></a>
+</p>
+
 
   
