@@ -31,7 +31,6 @@
 
 </p>
 
-[![](https://visitcount.itsvg.in/api?id=talelekaustubh&icon=5&color=0)](https://visitcount.itsvg.in)
-
+[![](https://visitcount.itsvg.in/api?id=talelekaustubh&label=Profile%20Views&color=11&icon=1&pretty=false)](https://visitcount.itsvg.in)
 
   
