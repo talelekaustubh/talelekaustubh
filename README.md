@@ -5,14 +5,14 @@
 ## About 👨‍💻
 <p>I am a B.E(CS) student, having a keen interest in programming and research.</p>
 
-
+<!-- GIF -->
+<img align="right" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
 ### I am Currently...<br>
 
 - Learning And Applying Cloud And Devops
 - Learning Various Devops Tools.
 
-- <!-- GIF -->
-<img align="right" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
+
 
 <p align="center">
 <a href="https://www.linkedin.com/in/kaustubh-talele-6b4585202/" target="blank"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="Kaustubh-Talele" height="40" width="40" /></a>
