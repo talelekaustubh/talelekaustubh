@@ -3,11 +3,11 @@
 <h3 align="center">Studying Computer Engineering at<br>Modern Education Society College of Engineering, Pune</h3>
 
 ## About 👨‍💻
-<p>I am a B.E(CS) student, having a keen interest in programming and research.</p>
-
+<p>I am a B.E(CS) graduate, having a keen interest in cloud and devops.
 <!-- GIF -->
-<img align="right" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
-### I am Currently...<br>
+<img align="right" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" /></p>
+
+## I am Currently...<br>
 
 - Learning And Applying Cloud And Devops
 - Learning Various Devops Tools.
