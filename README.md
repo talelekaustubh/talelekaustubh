@@ -5,6 +5,7 @@
 ## About 👨‍💻
 <p>I am a B.E(CS) graduate, having a keen interest in cloud and devops.
 </p>
+<p align="center">
 
 ## I am Currently...<br>
 
@@ -13,7 +14,6 @@
 
 
 
-<p align="center">
 <a href="https://www.linkedin.com/in/kaustubh-talele-6b4585202/" target="blank"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="Kaustubh-Talele" height="40" width="40" /></a>
 <a href="https://stackoverflow.com/users/16327622/kaustubh" target="blank"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-shadow-tal-revivo.png" alt="Kaustubh-Talele" height="40" width="40" /></a>
   <!-- GIF -->
