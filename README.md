@@ -36,5 +36,5 @@
 
 
 [![](https://visitcount.itsvg.in/api?id=talelekaustubh&label=Profile%20Views&color=11&icon=1&pretty=false)](https://visitcount.itsvg.in)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=talelekaustubh&label=Profile%20views&color=0e75b6&style=flat" alt="talelekaustubh" /> </p>
 
-  
